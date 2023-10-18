@@ -39,7 +39,7 @@ Laptand V2 improves on this as it folds away in under a second, is made out of 3
 </p>
 
 <p align="center">
-    <img src="Laptand_V2/images/V2.0.3gif.gif" width="900" height= "900"/>
+    <img src="Laptand_V2/images/V2.0.3gif.gif" width="620" height= "1102"/>
 </p>
 
 <p align="center">
