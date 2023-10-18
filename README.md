@@ -50,9 +50,9 @@ Laptand V2 improves on this as it folds away in under a second, is made out of 3
     <img src="Laptand_V2/images/V2.0.2.jpg">
 </p>
 
-### [Assembly Instructions for Laptand V1.2](/Laptand_V1.1/README.md)
-### [Assembly Instructions for Laptand V1.1](/Laptand_V1.2/README.md)
-### [Assembly Instructions for Laptand V2](/Laptand_V2/README.md)
+## Assembly Instructions for
+### [Laptand V1.1](/Laptand_V1.1/README.md)
+### [Laptand V1.2](/Laptand_V1.2/README.md)
+### [Laptand V2](/Laptand_V2/README.md)
 
-<img src="Laptand_V2/images/V2.0.3gif.gif" width="620" height= "1102"/>
 

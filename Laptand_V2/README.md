@@ -1,7 +1,11 @@
-# Assembly Instructions for Laptand V2.0
+# Laptand V2.0
+TODO
 
+## Construction Instructions
+TODO
 
-Laptop Stand to Keep Your Back Heathy
+## Assembly Instructions
+TODO
 
 
 
